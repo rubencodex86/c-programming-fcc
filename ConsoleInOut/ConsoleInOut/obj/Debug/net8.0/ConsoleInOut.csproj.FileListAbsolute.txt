@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/bin/Debug/net8.0/ConsoleInOut
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/bin/Debug/net8.0/ConsoleInOut.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/bin/Debug/net8.0/ConsoleInOut.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/bin/Debug/net8.0/ConsoleInOut.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/bin/Debug/net8.0/ConsoleInOut.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/ConsoleInOut.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/ConsoleInOut.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/ConsoleInOut.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/ConsoleInOut.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/ConsoleInOut.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/ConsoleInOut.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/refint/ConsoleInOut.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/ConsoleInOut.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/ConsoleInOut.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConsoleInOut/ConsoleInOut/obj/Debug/net8.0/ref/ConsoleInOut.dll
