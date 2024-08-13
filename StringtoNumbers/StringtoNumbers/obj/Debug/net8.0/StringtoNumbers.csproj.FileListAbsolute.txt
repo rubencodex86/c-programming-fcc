@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/StringtoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/StringtoNumbers.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/StringtoNumbers.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/StringtoNumbers.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/StringtoNumbers.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/bin/Debug/net8.0/StringtoNumbers
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/bin/Debug/net8.0/StringtoNumbers.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/bin/Debug/net8.0/StringtoNumbers.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/bin/Debug/net8.0/StringtoNumbers.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/bin/Debug/net8.0/StringtoNumbers.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/StringtoNumbers.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/refint/StringtoNumbers.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/StringtoNumbers.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/StringtoNumbers.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/StringtoNumbers/StringtoNumbers/obj/Debug/net8.0/ref/StringtoNumbers.dll
