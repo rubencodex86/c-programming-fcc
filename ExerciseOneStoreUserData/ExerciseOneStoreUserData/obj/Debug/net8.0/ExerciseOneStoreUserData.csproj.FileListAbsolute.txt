@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/bin/Debug/net8.0/ExerciseOneStoreUserData
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/bin/Debug/net8.0/ExerciseOneStoreUserData.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/bin/Debug/net8.0/ExerciseOneStoreUserData.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/bin/Debug/net8.0/ExerciseOneStoreUserData.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/bin/Debug/net8.0/ExerciseOneStoreUserData.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/ExerciseOneStoreUserData.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/ExerciseOneStoreUserData.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/ExerciseOneStoreUserData.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/ExerciseOneStoreUserData.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/ExerciseOneStoreUserData.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/ExerciseOneStoreUserData.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/refint/ExerciseOneStoreUserData.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/ExerciseOneStoreUserData.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/ExerciseOneStoreUserData.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOneStoreUserData/ExerciseOneStoreUserData/obj/Debug/net8.0/ref/ExerciseOneStoreUserData.dll
