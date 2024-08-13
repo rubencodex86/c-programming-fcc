@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/bin/Debug/net8.0/String_Chars
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/bin/Debug/net8.0/String_Chars.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/bin/Debug/net8.0/String_Chars.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/bin/Debug/net8.0/String_Chars.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/bin/Debug/net8.0/String_Chars.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/String_Chars.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/String_Chars.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/String_Chars.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/String_Chars.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/String_Chars.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/String_Chars.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/refint/String_Chars.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/String_Chars.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/String_Chars.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/String_Chars/String_Chars/obj/Debug/net8.0/ref/String_Chars.dll
