@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/bin/Debug/net8.0/ExerciseOddEvenChecker
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/bin/Debug/net8.0/ExerciseOddEvenChecker.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/bin/Debug/net8.0/ExerciseOddEvenChecker.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/bin/Debug/net8.0/ExerciseOddEvenChecker.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/bin/Debug/net8.0/ExerciseOddEvenChecker.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/ExerciseOddEvenChecker.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/ExerciseOddEvenChecker.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/ExerciseOddEvenChecker.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/ExerciseOddEvenChecker.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/ExerciseOddEvenChecker.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/ExerciseOddEvenChecker.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/refint/ExerciseOddEvenChecker.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/ExerciseOddEvenChecker.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/ExerciseOddEvenChecker.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ExerciseOddEvenChecker/ExerciseOddEvenChecker/obj/Debug/net8.0/ref/ExerciseOddEvenChecker.dll
