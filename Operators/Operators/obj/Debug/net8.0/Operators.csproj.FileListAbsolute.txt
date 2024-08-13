@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/bin/Debug/net8.0/Operators
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/bin/Debug/net8.0/Operators.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/bin/Debug/net8.0/Operators.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/bin/Debug/net8.0/Operators.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/bin/Debug/net8.0/Operators.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/Operators.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/Operators.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/Operators.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/Operators.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/Operators.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/refint/Operators.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/Operators.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/Operators.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Operators/Operators/obj/Debug/net8.0/ref/Operators.dll
