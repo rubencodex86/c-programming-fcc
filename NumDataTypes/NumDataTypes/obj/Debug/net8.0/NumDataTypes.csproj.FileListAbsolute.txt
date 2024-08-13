@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/bin/Debug/net8.0/NumDataTypes
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/bin/Debug/net8.0/NumDataTypes.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/bin/Debug/net8.0/NumDataTypes.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/bin/Debug/net8.0/NumDataTypes.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/bin/Debug/net8.0/NumDataTypes.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/NumDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/NumDataTypes.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/NumDataTypes.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/NumDataTypes.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/NumDataTypes.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/NumDataTypes.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/refint/NumDataTypes.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/NumDataTypes.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/NumDataTypes.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/NumDataTypes/NumDataTypes/obj/Debug/net8.0/ref/NumDataTypes.dll
