@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/bin/Debug/net8.0/MyFirstProject
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/bin/Debug/net8.0/MyFirstProject.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/bin/Debug/net8.0/MyFirstProject.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/bin/Debug/net8.0/MyFirstProject.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/bin/Debug/net8.0/MyFirstProject.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/MyFirstProject.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/MyFirstProject.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/refint/MyFirstProject.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/MyFirstProject.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/MyFirstProject.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/MyFirstProject/MyFirstProject/obj/Debug/net8.0/ref/MyFirstProject.dll

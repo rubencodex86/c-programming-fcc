@@ -5,3 +5,18 @@ This is a [Youtube video from freeCodeCamp](https://youtu.be/YrtFtdTTfv0?si=h1cO
 I want to start programming .Net applications so I need to start by learning C#.
 
 I will try to [follow the steps](https://youtu.be/ohkeYczD1LY?si=zXLcmSnyChLZSNMU) of someone experienced. 
+
+### Video Contents:
+
+- Data Types
+- Control flow (connditional statements and loops)
+- String functions
+- Data Structures
+- Functions
+- Expection handling
+- Debugging
+- Object oriented programming
+
+
+
+
