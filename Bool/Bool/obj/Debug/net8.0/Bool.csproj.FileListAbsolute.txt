@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/bin/Debug/net8.0/Bool
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/bin/Debug/net8.0/Bool.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/bin/Debug/net8.0/Bool.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/bin/Debug/net8.0/Bool.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/bin/Debug/net8.0/Bool.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/Bool.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/Bool.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/Bool.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/Bool.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/Bool.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/Bool.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/refint/Bool.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/Bool.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/Bool.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Bool/Bool/obj/Debug/net8.0/ref/Bool.dll
