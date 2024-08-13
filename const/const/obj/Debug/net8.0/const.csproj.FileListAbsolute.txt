@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/bin/Debug/net8.0/const
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/bin/Debug/net8.0/const.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/bin/Debug/net8.0/const.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/bin/Debug/net8.0/const.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/bin/Debug/net8.0/const.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/const.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/const.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/const.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/const.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/const.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/const.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/refint/const.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/const.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/const.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/const/const/obj/Debug/net8.0/ref/const.dll
