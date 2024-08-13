@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/bin/Debug/net8.0/IfStatements
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/bin/Debug/net8.0/IfStatements.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/bin/Debug/net8.0/IfStatements.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/bin/Debug/net8.0/IfStatements.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/bin/Debug/net8.0/IfStatements.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/IfStatements.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/IfStatements.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/IfStatements.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/IfStatements.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/IfStatements.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/refint/IfStatements.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/IfStatements.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/IfStatements.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/Debug/net8.0/ref/IfStatements.dll
