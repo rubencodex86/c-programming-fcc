@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/bin/Debug/net8.0/For
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/bin/Debug/net8.0/For.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/bin/Debug/net8.0/For.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/bin/Debug/net8.0/For.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/bin/Debug/net8.0/For.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/For.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/For.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/For.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/For.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/For.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/For.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/refint/For.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/For.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/For.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/For/For/obj/Debug/net8.0/ref/For.dll
