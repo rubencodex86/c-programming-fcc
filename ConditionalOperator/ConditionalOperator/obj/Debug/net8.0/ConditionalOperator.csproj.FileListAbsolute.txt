@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/refint/ConditionalOperator.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/ConditionalOperator/ConditionalOperator/obj/Debug/net8.0/ref/ConditionalOperator.dll
