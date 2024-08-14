@@ -1,0 +1,15 @@
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/bin/Debug/net8.0/Switch
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/bin/Debug/net8.0/Switch.deps.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/bin/Debug/net8.0/Switch.runtimeconfig.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/bin/Debug/net8.0/Switch.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/bin/Debug/net8.0/Switch.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/Switch.AssemblyInfoInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/Switch.AssemblyInfo.cs
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/Switch.csproj.CoreCompileInputs.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/Switch.sourcelink.json
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/Switch.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/refint/Switch.dll
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/Switch.pdb
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/Switch.genruntimeconfig.cache
+/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/Debug/net8.0/ref/Switch.dll

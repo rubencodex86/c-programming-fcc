@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/IfStatements.csproj": {}
+    "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/Switch.csproj": {}
   },
   "projects": {
-    "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/IfStatements.csproj": {
+    "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/IfStatements.csproj",
-        "projectName": "IfStatements",
-        "projectPath": "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/IfStatements.csproj",
+        "projectUniqueName": "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/Switch.csproj",
+        "projectName": "Switch",
+        "projectPath": "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/Switch.csproj",
         "packagesPath": "/home/ruben/.nuget/packages/",
-        "outputPath": "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/IfStatements/IfStatements/obj/",
+        "outputPath": "/home/ruben/Documents/projects/net/c_basics/c-programming-fcc/Switch/Switch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ruben/.nuget/NuGet/NuGet.Config"
